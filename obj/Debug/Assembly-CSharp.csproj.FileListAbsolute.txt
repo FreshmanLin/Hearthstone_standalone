@@ -1,0 +1,2 @@
+C:\Users\lenovo\Desktop\HearthStone_RM\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\HearthStone_RM\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
